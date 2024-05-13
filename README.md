@@ -2,30 +2,30 @@
 
 Welcome to the Mobile Banking App, a secure and convenient way to manage your finances on the go. This readme provides an overview of the app's features, installation instructions, and usage guidelines.
 
-# Features
+## Features
 
-## Account Management
+- Account Management
 View account balances and transaction history for your checking, savings, and credit card accounts.
 Transfer funds between your accounts or to other linked accounts.
 Set up recurring transfers, bill payments, and manage payees.
 
-## Bill Payment
+- Bill Payment
 Pay bills and schedule recurring payments.
 Add and manage payees for quick and easy transactions.
 Receive notifications for upcoming and completed payments.
 
-## Security
+- Security
 Industry-standard encryption to protect your data.
 Password authentication for secure login.
 Customize security settings and notification preferences.
 
-## Installation
+- Installation
 
 Before downloading the file, make sure you have python and flask installed on your device.
 Download all the files and run them.
 Create and account and start banking
 
-# Usage
+- Usage
 
 Dashboard: The home screen provides an overview of your account balances and recent transactions.
 
