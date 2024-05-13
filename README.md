@@ -19,13 +19,14 @@ Industry-standard encryption to protect your data.
 Password authentication for secure login.
 Customize security settings and notification preferences.
 
-- Installation
+
+## Installation
 
 Before downloading the file, make sure you have python and flask installed on your device.
 Download all the files and run them.
 Create and account and start banking
 
-- Usage
+## Usage
 
 Dashboard: The home screen provides an overview of your account balances and recent transactions.
 
